@@ -5,6 +5,8 @@ O objetivo é criar uma interface em **React** que consome a **API pública do G
 
 ---
 
+![Image](https://github.com/user-attachments/assets/aff94c9d-cb11-4835-ba81-e23b38a8ee36)
+
 ## 🧠 Funcionalidades
 
 - 🔎 Busca de perfis do GitHub pelo nome de usuário  
